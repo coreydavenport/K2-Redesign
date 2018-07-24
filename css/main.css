@@ -148,11 +148,3 @@ border-radius: 50%;
 
 }
 
-#rotate {
-  -webkit-transform: rotate(270deg);     /* Chrome and other webkit browsers */
-  -moz-transform: rotate(270deg);        /* FF */
-  -o-transform: rotate(270deg);          /* Opera */
-  -ms-transform: rotate(270deg);         /* IE9 */
-  transform: rotate(270deg); 
-
-}
